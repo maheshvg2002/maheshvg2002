@@ -15,12 +15,12 @@
 
 | Category | Skills |
 | :--- | :--- |
+| **Languages** | Python, C, C++  | 
 | **AI & LLMs** | CrewAI, LangChain, Ollama, NLP, LLM Agents  |
+| **Databases** | MySQL |
 | **Machine Learning** | Scikit-learn, NumPy, Pandas, EfficientNet |
 | **Computer Vision** | YOLOv8, OpenCV, Image Detection & Tracking  |
-| **Languages** | Python, C, C++  |
 | **Cloud & DevOps** | AWS, Docker, Git, GitHub, Google Colab |
-| **Databases** | MySQL |
 
 ---
 
