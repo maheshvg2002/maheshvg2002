@@ -19,15 +19,15 @@
 | **Machine Learning** | Scikit-learn, NumPy, Pandas, EfficientNet |
 | **Computer Vision** | YOLOv8, OpenCV, Image Detection & Tracking  |
 | **Languages** | Python, C, C++  |
-| **Cloud & DevOps** | [cite_start]AWS, Docker, Git, GitHub, Google Colab [cite: 9] |
-| **Databases** | [cite_start]MySQL [cite: 8] |
+| **Cloud & DevOps** | AWS, Docker, Git, GitHub, Google Colab |
+| **Databases** | MySQL |
 
 ---
 
 ### 🚀 Key Projects
 - **Agentic Logistics Solution:** Deployed a real-time AI system on AWS for load management using CrewAI.
-- **AI Network Monitor:** Built an anomaly detection system using LLMs and agents to track system metrics[cite: 25, 26].
-- **Healthcare Diagnostics:** Trained an EfficientNet model to classify medical images like X-rays and brain scans[cite: 23, 24].
+- **AI Network Monitor:** Built an anomaly detection system using LLMs and agents to track system metrics.
+- **Healthcare Diagnostics:** Trained an EfficientNet model to classify medical images like X-rays and brain scans.
 
 ---
 
