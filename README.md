@@ -3,11 +3,11 @@
 ### Software Engineer | AI Agent Developer 
 **Currently seeking new opportunities in AI/ML & Backend Development**
 
-- 🔭 Most recently, I served as a **Trainee Software Engineer at Trigent Software**, where I built production-grade AI agentic solutions[cite: 13, 14].
-- 💡 Specialized in **Generative AI** (LangChain, CrewAI, MCP) and **Computer Vision** (YOLOv8, OpenCV)[cite: 10, 11, 21].
-- 🌱 Currently deep-diving into **Agentic Frameworks** and **Cloud-Native AI Deployment**[cite: 11, 20].
-- 💬 Ask me about **LLM integration, automated network monitoring, or medical image classification**[cite: 16, 25, 26].
-- 📫 How to reach me: **mvgobbur@gmail.com** [cite: 3]
+- 🔭 Most recently, I served as a **Trainee Software Engineer at Trigent Software**, where I built production-grade AI agentic solutions.
+- 💡 Specialized in **Generative AI** (LangChain, CrewAI, MCP) and **Computer Vision** (YOLOv8, OpenCV).
+- 🌱 Currently deep-diving into **Agentic Frameworks** and **Cloud-Native AI Deployment**.
+- 💬 Ask me about **LLM integration, automated network monitoring, or medical image classification**.
+- 📫 How to reach me: **mvgobbur@gmail.com**
 
 ---
 
@@ -15,10 +15,10 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **AI & LLMs** | [cite_start]CrewAI, LangChain, Ollama, NLP, LLM Agents  |
-| **Machine Learning** | [cite_start]Scikit-learn, NumPy, Pandas, EfficientNet [cite: 10, 16] |
-| **Computer Vision** | [cite_start]YOLOv8, OpenCV, Image Detection & Tracking [cite: 10, 19, 21] |
-| **Languages** | [cite_start]Python, C, C++ [cite: 7] |
+| **AI & LLMs** | CrewAI, LangChain, Ollama, NLP, LLM Agents  |
+| **Machine Learning** | Scikit-learn, NumPy, Pandas, EfficientNet |
+| **Computer Vision** | YOLOv8, OpenCV, Image Detection & Tracking  |
+| **Languages** | Python, C, C++  |
 | **Cloud & DevOps** | [cite_start]AWS, Docker, Git, GitHub, Google Colab [cite: 9] |
 | **Databases** | [cite_start]MySQL [cite: 8] |
 
