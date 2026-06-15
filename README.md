@@ -15,7 +15,8 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, C, C++  | 
+| **Languages** | Python, C, C++  |
+| **Data Analysis & Visualization** | Microsoft Excel (Advanced), Power BI (DAX, KPIs)  |
 | **AI & LLMs** | CrewAI, LangChain, Ollama, NLP, LLM Agents  |
 | **Databases** | MySQL |
 | **Machine Learning** | Scikit-learn, NumPy, Pandas, EfficientNet |
